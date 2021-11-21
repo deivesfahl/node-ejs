@@ -1,0 +1,18 @@
+{
+    "name": "node-ejs",
+    "description": "Projeto simples para de teste do EJS com Node.js",
+    "private": true,
+    "scripts": {
+        "start": "nodemon -e ejs,js src/app.js"
+    },
+    "author": "Deives Fahl <dfahl.cps@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "ejs": "^3.1.6",
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
