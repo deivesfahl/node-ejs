@@ -1,6 +1,6 @@
-# Node + EJS
+# Node.js + EJS
 
-Projeto simples para de teste do [EJS](https://ejs.co/) com [Node.js](https://nodejs.org/).
+Projeto simples para testar [EJS](https://ejs.co/) com [Node.js](https://nodejs.org/).
 
 # Inicializar
 
