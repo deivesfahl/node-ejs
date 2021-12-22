@@ -3,11 +3,12 @@
     "description": "Projeto simples para de teste do EJS com Node.js",
     "private": true,
     "scripts": {
-        "start": "nodemon -e ejs,js src/app.js"
+        "start": "nodemon -e ejs,js src/server.js"
     },
     "author": "Deives Fahl <dfahl.cps@gmail.com>",
     "license": "ISC",
     "dependencies": {
+        "cors": "^2.8.5",
         "dotenv": "^10.0.0",
         "ejs": "^3.1.6",
         "express": "^4.17.2"
